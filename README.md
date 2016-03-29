@@ -12,7 +12,7 @@ Tested with react-native 0.20
 ## Add it to your project
 
 1. Run `npm install react-native-scrollable-view --save`
-2. `var ScrollableTabView = require('react-native-scrollable-tab-view');`
+2. `var ScrollableView = require('react-native-scrollable-view');`
 
 ## Demo
 
