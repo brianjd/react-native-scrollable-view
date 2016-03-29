@@ -1,0 +1,19 @@
+{
+  "name": "react-native-scrollable-view",
+  "version": "0.1.0",
+  "description": "Inspired by https://github.com/brentvatne/react-native-scrollable-tab-view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poom3d/react-native-scrollable-view.git"
+  },
+  "author": "poom3d",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poom3d/react-native-scrollable-view/issues"
+  },
+  "homepage": "https://github.com/poom3d/react-native-scrollable-view#readme"
+}
