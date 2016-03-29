@@ -28,9 +28,9 @@ var App = React.createClass({
   render() {
     return (
       <ScrollableView>
-        <Text> View 1</Text>
-        <Text> View 2</Text>
-        <Text> View 3</Text>
+        <Text pageLabel="1"> View 1</Text>
+        <Text pageLabel="2"> View 2</Text>
+        <Text pageLabel="3"> View 3</Text>
       </ScrollableView>
     );
   }
