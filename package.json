@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/poom3d/react-native-scrollable-view/issues"
   },
-  "homepage": "https://github.com/poom3d/react-native-scrollable-view#readme"
+  "homepage": "https://github.com/poom3d/react-native-scrollable-view#readme",
+  "dependencies": {
+    "react": "15.3.2"
+  }
 }

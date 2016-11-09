@@ -1,6 +1,6 @@
-const React = require('react-native');
+import React from 'react'
 
-const {
+import {
   Dimensions,
   View,
   Animated,
@@ -9,8 +9,8 @@ const {
   StyleSheet,
   ViewPagerAndroid,
   PropTypes,
-  InteractionManager,
-} = React;
+  InteractionManager
+} from 'react-native'
 
 
 const ScrollableView = React.createClass({
